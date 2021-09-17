@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WishList.Controllers.HomeController
+namespace WishList.Controllers
 {
     public class HomeController : Controller
     {
